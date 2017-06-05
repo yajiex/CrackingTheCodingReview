@@ -1,3 +1,3 @@
-- [Home](/)
+- [Home](README.md)
 - Arrays and Strings
-  - [1.1](Arrays and Strings/1.1.md)
+  - [1.3](1.3.md)

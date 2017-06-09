@@ -2,3 +2,4 @@
 - Arrays and Strings
   - [1.3 URLify](1.3.md)
   - [1.4 Palindrome Permutation](1.4.md)
+  - [1.9 String Rotation](1.9.md)

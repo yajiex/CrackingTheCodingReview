@@ -5,3 +5,4 @@
   - [1.9 String Rotation](1.9.md)
   - [2.4 Partition](2.4.md)
   - [2.5 Sum Lists](2.5.md)
+  - [4.12 Paths with Sum](4.12.md)
